@@ -1,6 +1,6 @@
 {
-  "name": "ai-new-workflow-app-template-build",
-  "image": "ghcr.io/nam20485/ai-new-workflow-app-template:main-latest",
+  "name": "convo-content-buddy-golf56-build",
+  "image": "ghcr.io/nam20485/convo-content-buddy-golf56:main-latest",
   "features": {
     "ghcr.io/devcontainers/features/node:1": {
       "version": "20"
